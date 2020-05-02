@@ -30,4 +30,6 @@ interface KegoConfigurationImpl {
 
     fun addErrorsConfiguration(config: KegoErrorsConfiguration)
 
+    fun addImagesConfiguration(configImages: KegoImagesUrlConfiguration)
+
 }

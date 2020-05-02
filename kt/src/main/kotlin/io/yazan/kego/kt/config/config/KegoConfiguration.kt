@@ -69,4 +69,8 @@ object KegoConfiguration : KegoConfigurationImpl {
         this.errorsConfiguration = config
     }
 
+    override fun addImagesConfiguration(configImages: KegoImagesUrlConfiguration) {
+        this.imagesConfiguration = configImages
+    }
+
 }
