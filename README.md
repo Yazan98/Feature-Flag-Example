@@ -1,4 +1,4 @@
-# kego
+# Feature Flag Example
 
 ### Feature Flag To Build Dynamic UI With Spring Boot / Kotlin
 
